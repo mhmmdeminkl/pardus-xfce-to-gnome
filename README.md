@@ -1,4 +1,5 @@
 # Pardus XFCE to GNOME
+SCRİPT TEST AŞAMASINDADIR! DENEMENİZ ÇÖKMELERE SEBEBİYET VEREBİLİR!
 
 Pardus kullanıcılarının XFCE masaüstü ortamından GNOME masaüstü ortamına geçiş yapmaya yarayan kod betiği. 
 
