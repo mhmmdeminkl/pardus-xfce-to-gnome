@@ -1,5 +1,4 @@
 # Pardus XFCE to GNOME
-SCRİPT TEST AŞAMASINDADIR! DENEMENİZ ÇÖKMELERE SEBEBİYET VEREBİLİR!
 
 Pardus kullanıcılarının XFCE masaüstü ortamından GNOME masaüstü ortamına geçiş yapmaya yarayan kod betiği. 
 
@@ -25,7 +24,7 @@ bash pxtg.sh
 
 Script çalıştığında gerekli uyarıları yapmaktadır. 
 
-**Script lightdm ve gdm3 seçme ekranına yönlendirme yapmaktadır. Gdm3 seçeneğini seçmelisiniz.**
+**Script iki defa lightdm ve gdm3 seçme ekranına yönlendirme yapmaktadır. Gdm3 seçeneğini seçmelisiniz.**
 
 **Sorumluluk Reddi**: Script çalıştığında oluşabilecek her türlü sorunun sorumluluğu size aittir. Yaşadığınız sorunlarla ilgili Pardus Forumlar üzerinden açmış olduğum SAYFA EKLENECEK! ne yorum yaparak sorununuza çözüm bulmayı deneyebilirsiniz.
 
