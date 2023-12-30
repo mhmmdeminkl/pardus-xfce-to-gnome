@@ -53,8 +53,7 @@ confirm() {
 }
 
 # Pardus Karşılayıcı için autostart işlemi
-cp /usr/share/applications/tr.org.pardus.pardus.gnome-greeter.desktop ~/.config/autostart/
- 
+cp /usr/share/applications/tr.org.pardus.pardus-gnome-greeter.desktop ~/.config/autostart/
 # Verilen girdiye göre işlemin devamı
 if confirm; then
     echo " Bilgisayarınız yeniden başlatılıyor."
