@@ -1,5 +1,5 @@
 # Pardus XFCE to GNOME
-Script Sürümü: Alpha (Geliştirme Aşaması)
+Script Sürümü: Test
 
 Pardus kullanıcılarının XFCE masaüstü ortamından GNOME masaüstü ortamına geçiş yapmaya yarayan kod betiği. 
 
