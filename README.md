@@ -1,5 +1,6 @@
 # Pardus XFCE to GNOME
 08.02.2024 ÇALIŞMALAR DEVAM ETMEKTEDİR!
+
 Script Sürümü: Bakım
 
 Script bakıma alınmış olup yeni sürüm yakında yayınlanacaktır. Bu süreçte denemeniz sorunlara sebebiyet verebilir.
